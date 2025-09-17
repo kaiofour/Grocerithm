@@ -8,14 +8,10 @@
        • Automatically builds lists based on weekly consumption patterns, inventory at home, and forecasted needs.
   
    ## 2. Computer Vision & Automation
-    	•	Pantry Inventory via Camera
-    	•	Use phone camera or barcode scanning to update stock levels.
-    	•	Expiry date tracking with reminders (“Your milk expires tomorrow”).
-    	•	Receipt OCR Enhancements
-    	•	Classify items into categories (produce, meat, condiments).
-    	•	Auto-compare prices across different stores
+    	•	Receipt OCR (Optical Character Recognition): Using phone camera or barcode scanning to update stock levels(tracking inventory).
+      •	Pantry Inventory via Camera (optional)
 
-# B. Other Features:
+# B. Other Features (random ideas to be considered):
    ##  1. Price Prediction & Budget Forecasting
    	•	Use machine learning to predict price fluctuations of common groceries (like eggs, rice, onions, etc.).
    	•	Suggest best times to buy or alternatives when prices surge.
